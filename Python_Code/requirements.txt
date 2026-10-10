@@ -1,0 +1,7 @@
+# Tested direct dependencies (Python 3.12). No paid plugins or API keys.
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+plotly==6.9.0
+streamlit==1.64.0
+matplotlib==3.10.8

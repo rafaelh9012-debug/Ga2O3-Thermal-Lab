@@ -1,0 +1,30 @@
+OPEN_WEB_VERSION.htm
+    Self-contained browser version. Double-click to open the precomputed interactive thermal report in Chrome, Edge, Firefox, or Safari. No Python is required for this file.
+
+START_APP.py
+    Primary Python launcher. Run this with the Python/IDE already installed on the computer.
+
+RUN_WITH_EXISTING_PYTHON.bat
+    Windows convenience launcher. Searches for an EXISTING Python only; never downloads Python.
+
+OPEN_SOURCE_FOLDER.bat
+    Opens the Python_Code source folder in Windows Explorer.
+
+Python_Code\app.py
+    Streamlit user interface.
+Python_Code\thermal_model.py
+    Thermal model and numerical solver.
+Python_Code\figures.py
+    Plotly figures and export helpers.
+Python_Code\export_results.py
+    Static/report export tool.
+Python_Code\test_physics.py
+    Physics/numerical verification tests.
+Python_Code\requirements.txt
+    Tested direct dependency versions.
+Python_Code\MODEL_NOTES.md
+    Scientific assumptions and model notes.
+Python_Code\VALIDATION.md
+    Verification record.
+Python_Code\.streamlit\config.toml
+    Forces the intended high-contrast light theme.

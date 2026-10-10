@@ -1,0 +1,6 @@
+Application: Ga2O3 Thermal Lab
+Publisher / project label: RafaelDaSquidman
+Edition: Existing-Python launcher
+
+This package intentionally contains no custom Windows executable and makes no claim
+of Authenticode or Microsoft-verified publisher status.
